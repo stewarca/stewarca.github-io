@@ -3,4 +3,5 @@
 
 This is the Description Genius
 
-Lets's pretend I fixed the video above, good job
+2nd course - link two a different video. 
+Enjoy.
