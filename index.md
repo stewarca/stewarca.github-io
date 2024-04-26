@@ -5,3 +5,6 @@ This is the Description Genius
 
 2nd course - link two a different video. 
 Enjoy.
+<div id="preview" style="display:none">
+This won't show up.
+</div>
